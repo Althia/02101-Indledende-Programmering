@@ -6,7 +6,7 @@ package uge2;
 
 public class Opgave2_6 {
 	
-	public static final int NUM_MEN = 7;
+	public static final int NUM_MEN = 5;
 	
 	public static void main(String[] args) {
 		for(int i = 0; i < NUM_MEN; i++) {
@@ -41,7 +41,7 @@ public class Opgave2_6 {
 		}
 	}
 	public static void head() {
-		System.out.print("  o  ");
+		System.out.print("  O  ");
 		for(int i = 0; i < 6; i++) {
 			System.out.print("*");
 		}
