@@ -5,7 +5,7 @@ public class Opgave2_3_2 {
 		final int REPEATNUM = 5;
 		final int NUMROWS = 5;
 		for(int i = 0; i < NUMROWS; i++) {
-			for(int j = 9; j > 0; j--) {
+			for(int j = 9; j >= 0; j--) {
 				printNumbers(j, REPEATNUM);
 			}
 			System.out.println();
