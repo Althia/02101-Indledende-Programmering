@@ -10,6 +10,7 @@ public class Opgave1_2 {
 	public static void main (String[] args)
 	{
 		System.out.print("The words \"class\" and \"main\" are Java keywords.");
+		
 	}
 }
 
